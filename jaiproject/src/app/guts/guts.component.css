@@ -1,0 +1,11 @@
+.disp{
+    
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-around;
+}
+img{
+    width: 110px;
+    height: 110px;
+    border-radius: 20px;
+}
